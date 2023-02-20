@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
