@@ -1,1 +1,1 @@
-fix resume training
+Resize angle, count, and stage on keypoint number change (#7598)
