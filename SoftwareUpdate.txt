@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
