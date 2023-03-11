@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Tracker: clean up GMC (#8003)
