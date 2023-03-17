@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix heatmaps width-height order bug (#7184)
