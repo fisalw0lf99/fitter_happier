@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Pass callbacks to validator (#7320)
