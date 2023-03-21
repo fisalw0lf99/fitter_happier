@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
