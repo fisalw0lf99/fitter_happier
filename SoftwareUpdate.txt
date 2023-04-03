@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Elaborate Train and Predict mode docs arguments (#8137)
