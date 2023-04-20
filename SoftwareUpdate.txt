@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
