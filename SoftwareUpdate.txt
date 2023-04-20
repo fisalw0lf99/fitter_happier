@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
