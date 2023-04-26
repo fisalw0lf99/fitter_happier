@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Compress docs images (#8124)
