@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
