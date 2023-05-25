@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
