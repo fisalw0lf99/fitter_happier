@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Mkdocs updates (#8008)
