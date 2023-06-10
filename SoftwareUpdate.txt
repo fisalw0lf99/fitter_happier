@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
