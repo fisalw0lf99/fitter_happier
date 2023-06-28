@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Replace onnx2tf usage from CLI to Python (#8429)
