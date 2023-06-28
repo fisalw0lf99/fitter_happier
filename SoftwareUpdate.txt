@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
