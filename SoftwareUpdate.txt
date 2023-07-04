@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add distance calculation feature in vision-eye (#8616)
