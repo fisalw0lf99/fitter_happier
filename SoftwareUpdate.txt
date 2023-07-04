@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix TFLite INT8 for OBB (#7989)
