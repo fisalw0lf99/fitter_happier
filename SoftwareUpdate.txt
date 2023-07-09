@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Improve Docs arguments tables (#8415)
