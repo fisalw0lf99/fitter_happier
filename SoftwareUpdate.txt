@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
