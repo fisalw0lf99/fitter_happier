@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add Amazon Sagemaker Docs integrations page (#7293)
