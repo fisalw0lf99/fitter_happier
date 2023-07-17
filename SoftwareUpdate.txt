@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Merge pull request #22 from SkalskiP/patch-1
