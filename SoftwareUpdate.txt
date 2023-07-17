@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
