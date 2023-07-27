@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Capitalize OBB acronym (#7383)
