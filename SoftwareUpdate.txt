@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Allow Annotator PIL.Image inputs (#8397)
