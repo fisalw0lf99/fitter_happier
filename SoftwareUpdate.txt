@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
