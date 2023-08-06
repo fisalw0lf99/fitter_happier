@@ -1,1 +1,1 @@
-fix val each epoch
+Add bgr hyperparameter (#9139)
