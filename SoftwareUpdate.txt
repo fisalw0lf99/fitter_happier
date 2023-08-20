@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
