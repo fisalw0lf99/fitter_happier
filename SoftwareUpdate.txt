@@ -1,1 +1,1 @@
-Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
