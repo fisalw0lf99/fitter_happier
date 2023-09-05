@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add horizontal Mosaic3 augmentation (#6898)
