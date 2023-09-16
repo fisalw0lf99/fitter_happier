@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
