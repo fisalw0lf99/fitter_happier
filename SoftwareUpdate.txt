@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add YOLOv8 LibTorch C++ inference example (#7090)
