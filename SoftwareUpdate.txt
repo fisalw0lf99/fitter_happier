@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Update format.yml to pull_request_target (#7460)
