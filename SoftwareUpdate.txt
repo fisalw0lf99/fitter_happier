@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
