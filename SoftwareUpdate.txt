@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
