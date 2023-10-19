@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
