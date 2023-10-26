@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add new YOLOv8 OBB model metrics (#7379)
