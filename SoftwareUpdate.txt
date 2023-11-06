@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add bgr hyperparameter (#9139)
