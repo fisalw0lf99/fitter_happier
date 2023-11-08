@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Modify tuner best.pt logic to train first (#8792)
