@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
