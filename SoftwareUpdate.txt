@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
