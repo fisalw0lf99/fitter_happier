@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
