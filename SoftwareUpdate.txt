@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
