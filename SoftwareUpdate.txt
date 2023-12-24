@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update OpenVINO INT8 export (#7515)
