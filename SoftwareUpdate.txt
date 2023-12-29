@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Retry once for Docker CI failures (#8164)
