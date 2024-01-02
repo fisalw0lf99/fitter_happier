@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Clarify triton server boolean value (#8532)
