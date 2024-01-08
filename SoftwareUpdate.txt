@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Expand Model method type hinting (#8279)
