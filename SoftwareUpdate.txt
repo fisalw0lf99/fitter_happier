@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
