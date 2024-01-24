@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
