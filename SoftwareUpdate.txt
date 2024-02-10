@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Python refactorings and simplifications (#7549)
