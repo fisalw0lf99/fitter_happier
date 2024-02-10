@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.27 batched tracking fixes (#8842)
