@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Improve Docs Modes tables (#8266)
