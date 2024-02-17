@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
