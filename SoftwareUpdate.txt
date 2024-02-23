@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update Docs Home and Neural Magic pages (#7243)
