@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Allow Annotator PIL.Image inputs (#8397)
