@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+added badges (#45)
