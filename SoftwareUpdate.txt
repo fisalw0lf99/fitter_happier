@@ -1,1 +1,1 @@
-added badges (#45)
+Update CI.md with CI links (#8786)
