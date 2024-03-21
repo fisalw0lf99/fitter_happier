@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
