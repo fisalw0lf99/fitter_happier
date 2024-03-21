@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
