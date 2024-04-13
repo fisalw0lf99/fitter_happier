@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add missing Explorer docs reference pages (#7455)
