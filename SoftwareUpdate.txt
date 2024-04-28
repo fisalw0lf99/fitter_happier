@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Explorer with LanceDB, Actions and Docs updates (#7487)
