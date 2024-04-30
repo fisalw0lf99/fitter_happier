@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
