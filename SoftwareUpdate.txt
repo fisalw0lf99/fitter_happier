@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Allow Annotator PIL.Image inputs (#8397)
