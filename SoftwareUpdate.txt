@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+* fix for predicting with batch_size > 1
