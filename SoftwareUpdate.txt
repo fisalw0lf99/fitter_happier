@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
