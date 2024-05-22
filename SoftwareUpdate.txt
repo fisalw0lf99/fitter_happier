@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update pyproject.toml and Docs (#7274)
