@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
