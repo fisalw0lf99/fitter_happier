@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
