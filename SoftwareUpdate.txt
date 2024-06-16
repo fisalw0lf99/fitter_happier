@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Improve Coral Edge TPU guide (#8160)
