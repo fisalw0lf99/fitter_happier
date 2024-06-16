@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update Colab notebook for YOLOv8.1 (#8660)
