@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add YOLOv8 LibTorch C++ inference example (#7090)
