@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
