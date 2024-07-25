@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
