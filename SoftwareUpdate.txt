@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Replace onnx2tf usage from CLI to Python (#8429)
