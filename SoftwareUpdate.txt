@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
