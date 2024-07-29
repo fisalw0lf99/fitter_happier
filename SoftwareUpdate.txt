@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
