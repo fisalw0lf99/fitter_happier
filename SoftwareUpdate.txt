@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix Yolo 8.0.206 scale bug (#7821)
