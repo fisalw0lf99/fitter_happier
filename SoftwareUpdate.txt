@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Compare plt.get_backend() in lowercase (#8409)
