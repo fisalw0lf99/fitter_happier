@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add Neural Magic Docs integrations page (#7234)
