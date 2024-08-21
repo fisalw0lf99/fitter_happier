@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Replacing Images for torchscript.md (#8596)
