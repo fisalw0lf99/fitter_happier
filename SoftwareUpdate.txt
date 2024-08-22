@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Feature: Create HUB Models from CLI or Python Script (#7316)
