@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
