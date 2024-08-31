@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Merge pull request #22 from SkalskiP/patch-1
