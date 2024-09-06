@@ -1,1 +1,1 @@
-add logs
+Cleanup Docs languages (#7865)
