@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
