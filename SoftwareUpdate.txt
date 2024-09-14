@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
