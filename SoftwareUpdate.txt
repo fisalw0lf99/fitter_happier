@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add PR Summary step to Ultralytics Actions (#7675)
