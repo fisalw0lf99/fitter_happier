@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Update Discord and Contributing Guide URLs (#9270)
